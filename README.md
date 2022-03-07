@@ -19,6 +19,5 @@ This is licensed under GNU General Public License, to read more please see <a hr
 ### Screenshots
 <p float="left">
   <img src="https://github.com/MThos/Stock-Average-Down-Calculator/blob/main/Screenshot-1.png" width="250">&nbsp;&nbsp;
-  <img src="https://github.com/MThos/Stock-Average-Down-Calculator/blob/main/Screenshot-2.png" width="250">&nbsp;&nbsp;
-  <img src="https://github.com/MThos/Stock-Average-Down-Calculator/blob/main/Screenshot-3.png" width="250">
+  <img src="https://github.com/MThos/Stock-Average-Down-Calculator/blob/main/Screenshot-2.png" width="250">
 </p>
