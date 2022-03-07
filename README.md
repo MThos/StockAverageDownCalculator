@@ -17,3 +17,8 @@ For how we handle your privacy please see <a href="https://github.com/MThos/Stoc
 This is licensed under GNU General Public License, to read more please see <a href="https://github.com/MThos/Stock-Average-Down-Calculator/blob/main/LICENSE">the licensing agreement.</a>
 <br/><br/>
 ### Screenshots
+<p float="left">
+  <img src="https://github.com/MThos/Stock-Average-Down-Calculator/blob/main/Screenshot-1.png" width="250">&nbsp;&nbsp;
+  <img src="https://github.com/MThos/Stock-Average-Down-Calculator/blob/main/Screenshot-2.png" width="250">&nbsp;&nbsp;
+  <img src="https://github.com/MThos/Stock-Average-Down-Calculator/blob/main/Screenshot-3.png" width="250">
+</p>
